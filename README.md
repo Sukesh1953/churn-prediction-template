@@ -50,22 +50,26 @@ Tenure
 Graphical Outputs:
 Confusion Matrix
 Churn vs Non-Churn distribution
+
 🧠 How to Use This Template
 Upload your customer dataset (must contain a churn column).
 Clean and preprocess it using the given steps.
 Train a model using the template code.
 Analyze performance and tune as needed.
 Export predictions or integrate into business dashboards.
+
 💡 Use Cases
 Telecom churn reduction
 SaaS subscription management
 User retention strategies
 Customer lifetime value prediction
+
 🚀 Future Improvements
 Add feature importance visualizations
 Try other models (Logistic Regression, XGBoost)
 Add hyperparameter tuning using GridSearchCV
 Create an interactive dashboard (using Streamlit)
+
 📬 Contact
 Creator: Sukesh Padagatti
 Email: sukeshpadagatti53@gmail.com
