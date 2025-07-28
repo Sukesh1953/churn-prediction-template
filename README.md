@@ -75,3 +75,8 @@ Creator: Sukesh Padagatti
 Email: sukeshpadagatti53@gmail.com
 
 Portfolio: https://www.notion.so/Sukesh-Padagatti-AI-Data-Science-Portfolio-2398956fbd1980ef8ab5e0d114f05844?source=copy_link
+
+## 📥 Download Template
+
+[![Download](https://img.shields.io/badge/Download%20Template-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/Sukesh1953/churn-prediction-template/archive/refs/heads/main.zip)
+
